@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+
+* {
+    font-family: 'Montserrat';
+}
+
+
+
+h1{
+    text-align: center;
+    font-size: 32px;
+    color:black;
+    border: solid 5px lightgrey;
+    
+}
+
+.first{
+    font-size: 30px;
+    font-weight: bold;
+    color: plum;
+    width:230px;
+    height: 30px;
+    padding: 15px;
+}
+
+
+.aboutMetext{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding: 15px;
+    float:left;
+    margin-top: 50px;
+    
+}
+
+.second{
+    font-size: 30px;
+    font-weight: bold;
+    color: plum;
+    width:280px;
+    padding: 15px;
+}
+
+.sns-img1{
+    width: 30%;
+    float: left;
+    height:30%;
+    border: 4px solid plum;
+    box-sizing: border-box;
+}
+.sns-img2{
+    float: left;
+    width:30%;
+    margin-left: 5%;
+    height:30%;
+    border: 4px solid plum;
+    box-sizing: border-box;
+}
+.sns-img3{
+    float: right;
+    width:30%;
+    height:30%;
+    border: 4px solid plum;
+    box-sizing: border-box;
+}
+
+.third{
+    font-size: 30px;
+    font-weight: bold;
+    color: plum;
+    width:230px;
+    padding: 20px;
+}
+
+.tmi{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    padding: 15px;
+    float:left;
+}
+
+
+#abc {
+    height: 270px;
+}
+
+.MotherWapper {
+    display: flex;
+    flex-direction: row;
+  }
+  
+
+.zeroWapper{
+    display: flex;
+    flex-direction: column;
+  }
+
+.inStyle {
+    margin-top: 90px;
+  }
+  
+  .in2Style {
+    margin-top: 8px;
+  }
+  
+  .pStyle {
+    margin-top: 30px;
+  }
